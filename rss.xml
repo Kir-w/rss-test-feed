@@ -9,6 +9,13 @@
     <link>https://kir-w.github.io/rss-test-feed/</link>
 
     <item>
+      <title>FORCE TEST POWER AUTOMATE</title>
+      <description>debug</description>
+      <pubDate>Tue, 16 Jun 2026 12:30:00 +0200</pubDate>
+      <guid>force-test-999-2026</guid>
+    </item>
+    
+    <item>
       <title>TEST 3</title>
       <description>Description 3</description>
       <pubDate>Tue, 16 Jun 2026 11:01:00 +0200</pubDate>
