@@ -8,7 +8,12 @@
     <description>Flux RSS de test Power Automate</description>
     <link>https://kir-w.github.io/rss-test-feed/</link>
 
-
+    <item>
+      <title>FORCE TRIGGER 001</title>
+      <description>debug</description>
+      <pubDate>Wed, 17 Jun 2026 10:00:00 GMT</pubDate>
+      <guid>force-trigger-001-unique-999</guid>
+    </item>
     
     <item>
       <title>TEST 1</title>
