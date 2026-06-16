@@ -8,6 +8,13 @@
     <link>https://kir-w.github.io/rss-test-feed/</link>
 
     <item>
+      <title>TEST 3</title>
+      <description>Description 3</description>
+      <pubDate>Tue, 16 Jun 2026 12:00:00 GMT+2</pubDate>
+      <guid>test-3</guid>
+    </item>
+    
+    <item>
       <title>TEST 2</title>
       <description>Description 2</description>
       <pubDate>Tue, 16 Jun 2026 11:00:00 GMT+2</pubDate>
