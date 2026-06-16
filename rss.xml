@@ -1,51 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<atom:link href="https://kir-w.github.io/rss-test-feed/rss.xml" rel="self" type="application/rss+xml" />
   
   <channel>
     
     <title>Cyber Test Feed</title>
     <description>Flux RSS de test Power Automate</description>
     <link>https://kir-w.github.io/rss-test-feed/</link>
-
-    <item>
-      <title>TEST 6</title>
-      <description>Description 6</description>
-      <pubDate>Tue, 16 Jun 2026 11:18:00</pubDate>
-      <guid>test-6</guid>
-    </item>
-    
-    <item>
-      <title>TEST 5</title>
-      <description>Description 5</description>
-      <pubDate>Tue, 16 Jun 2026 11:16:00</pubDate>
-      <guid>test-5</guid>
-    </item>
-    
-    <item>
-      <title>TEST 4</title>
-      <description>Description 4</description>
-      <pubDate>Tue, 16 Jun 2026 11:02:00</pubDate>
-      <guid>test-4</guid>
-    </item>
-    
-    <item>
-      <title>TEST 3</title>
-      <description>Description 3</description>
-      <pubDate>Tue, 16 Jun 2026 11:01:00</pubDate>
-      <guid>test-3</guid>
-    </item>
     
     <item>
       <title>TEST 2</title>
       <description>Description 2</description>
-      <pubDate>Tue, 16 Jun 2026 11:00:00</pubDate>
+      <pubDate>Tue, 16 Jun 2026 11:00:00 +0200</pubDate>
       <guid>test-2</guid>
     </item>
     
     <item>
       <title>TEST 1</title>
       <description>Description</description>
-      <pubDate>Tue, 16 Jun 2026 10:00:00</pubDate>
+      <pubDate>Tue, 16 Jun 2026 10:00:00 +0200</pubDate>
       <guid>test-1</guid>
     </item>
 
