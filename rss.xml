@@ -6,13 +6,19 @@
     <title>Cyber Test Feed</title>
     <description>Flux RSS de test Power Automate</description>
     <link>https://kir-w.github.io/rss-test-feed/</link>
+
+    <item>
+      <title>TEST 2</title>
+      <description>Description 2</description>
+      <pubDate>Wed, 17 Jun 2026 11:00:00 +0200</pubDate>
+      <guid>test-2</guid>
+    </item>
     
     <item>
       <title>TEST 1</title>
       <description>Description</description>
       <pubDate>Wed, 17 Jun 2026 10:00:00 +0200</pubDate>
       <guid>test-1</guid>
-      <link>https://kir-w.github.io/rss-test-feed/test-1</link>
     </item>
 
   </channel>
